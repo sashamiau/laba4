@@ -1,5 +1,9 @@
 package com.sashamiau;
 
+/**
+ \brief кот
+ животни..кот(мяукает)
+ */
 public class Cat extends Animal{
 
     @Override
